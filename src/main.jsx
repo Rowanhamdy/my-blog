@@ -19,7 +19,7 @@ import DraftPosts from './Pages/DraftPosts.jsx';
 
 const NewPost = React.lazy(() => import('./Pages/NewPost.jsx') )
 const PostDetails = React.lazy(() => import('./Pages/PostDetails.jsx'))
-const AddComment = React.lazy(() => import('./Pages/addComment.jsx'))
+const AddComment = React.lazy(() => import('./Pages/AddComment.jsx'))
 const Edit = React.lazy(() => import('./Pages/Edit.jsx'))
 const router = createBrowserRouter([
   {
