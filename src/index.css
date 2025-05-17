@@ -1,0 +1,14 @@
+@import "tailwindcss";
+body{
+    --mainColor--:#FF5678;
+    --secondColor--:#020E35;
+}
+.logo-text{
+    color: var(--mainColor--);
+}
+.item-color{
+    color: var(--secondColor--);
+}
+.bg-main{
+    background-color: var(--mainColor--);
+}
