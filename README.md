@@ -47,4 +47,4 @@ The app simulates interaction with an API for blog posts and comments, fetching 
 **Email**: rowaaanhamdy2001@gmail.com
 
 ## 📌 License
-MIT License
+Let me know if you want this in a downloadable .md file or if you'd like to include badges, screenshots, or demo GIFs.
